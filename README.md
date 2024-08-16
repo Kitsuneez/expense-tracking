@@ -10,3 +10,5 @@ However, this program is not able to detect incoming payments from others as it 
 It makes use of different APIs such as google and AWS DynamoDB.
 
 I will not be going in depth on how to set up the google account and AWS DynamoDB as it is only for personal purposes and not for commercial use.
+
+Remember to create credential.json, you can get the credentials from the google workspace OAuth 2.0 Client ID
